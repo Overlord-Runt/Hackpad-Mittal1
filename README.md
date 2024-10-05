@@ -1,6 +1,6 @@
 This is my hackpad. Feel free to take any code or model that you need😁
 The parts I have used are:
- - 19 Cherry MX Switches Brown (or anything quiet and tactile you have. im not picky) normal key size
+ - 11 Cherry MX Switches Brown (or anything quiet and tactile you have. im not picky) normal key size
  - 1 EC11 rotary encoder 20mm
  - 4 of the insets you said to use on the website
  - m3 screws
